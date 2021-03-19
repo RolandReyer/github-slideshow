@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Roland Reyer
+That's just like out opinion, man!
 Use the left arrow to go back!
